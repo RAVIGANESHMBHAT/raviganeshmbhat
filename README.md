@@ -5,7 +5,7 @@ I am Raviganesh.
 - 🌱 I’m currently learning JavaScript, MERN Stack....
 - 😄 See my portfolio [here](https://raviganeshmaniyoor.netlify.app){:target="_blank" rel="noopener"}
 - 📧 Drop me an email at raviganeshmbhat999@gmail.com
-<a href="http://example.com/" target="_blank">Hello, world!</a>
+- <a href="http://example.com/" target="_blank">Hello, world!</a>
 
 <!--
 **RAVIGANESHMBHAT/raviganeshmbhat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
