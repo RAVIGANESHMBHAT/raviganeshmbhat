@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am Raviganesh.
+- 🔭 I’m currently working on Software Development.
+- 🌱 I’m currently learning JavaScript, MERN Stack....
+- 😄 See my portfolio [here](https://raviganeshmaniyoor.netlify.app)
+- 📧 Drop me an email at raviganeshmbhat999@gmail.com
+
 <!--
 **RAVIGANESHMBHAT/raviganeshmbhat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
