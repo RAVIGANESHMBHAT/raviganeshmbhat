@@ -6,7 +6,7 @@ I am Raviganesh.
 - 😄 See my portfolio [here](https://raviganeshmaniyoor.netlify.app)<!--{:target="_blank" rel="noopener"} -->
 - 📧 Drop me an email at raviganeshmbhat999@gmail.com
 
-### Connect with me:
+#### Connect with me:
 
 <a href="https://www.linkedin.com/in/raviganesh-m-31b04015b/">
   <img align="left" alt="Raviganesh's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -18,5 +18,9 @@ I am Raviganesh.
   <img align="left" alt="Raviganesh's LinkedIn" width="28px" src="https://image.emojipng.com/796/1237796.jpg" />
 </a>
 </br>
+
+#### 📈 My Github Stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=raviganeshmbhat&show_icons=true&theme=gotham" alt="raviganesh_m" />
 
 ## 👋 </Hello_World>
