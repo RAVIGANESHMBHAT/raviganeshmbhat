@@ -8,9 +8,9 @@
   - 🌱 I’m currently learning JavaScript, MERN Stack, Docker, Kubernetes....
   - 😄 See my portfolio [here](https://raviganeshmaniyoor.netlify.app)
 
-`<script>
+`<script>`
 const portfolioURL = [https://raviganeshmaniyoor.netlify.app](https://raviganeshmaniyoor.netlify.app)
-</script>`
+`</script>`
 
 </About_Me>
 
