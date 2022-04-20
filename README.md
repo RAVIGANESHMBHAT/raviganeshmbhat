@@ -2,11 +2,15 @@
 
 <About_Me>
 
-nbsp`<name> I am Raviganesh </name>`
+`<name> I am Raviganesh </name>`
 
   - 🔭 I’m currently working on Software Development.
   - 🌱 I’m currently learning JavaScript, MERN Stack, Docker, Kubernetes....
-  - 😄 See my portfolio [here](https://raviganeshmaniyoor.netlify.app)<!--{:target="_blank" rel="noopener"} -->
+  - 😄 See my portfolio [here](https://raviganeshmaniyoor.netlify.app)
+
+`<script>
+const portfolioURL = [https://raviganeshmaniyoor.netlify.app](https://raviganeshmaniyoor.netlify.app)
+</script>`
 
 </About_Me>
 
