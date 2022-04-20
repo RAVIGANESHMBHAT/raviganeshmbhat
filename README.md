@@ -7,9 +7,9 @@
   - 🔭 I’m currently working on Software Development.
   - 🌱 I’m currently learning JavaScript, MERN Stack, Docker, Kubernetes....
 
-`<script>
-const portfolioURL = <a href="https://raviganeshmaniyoor.netlify.app"/>
-</script>`
+`<script>`
+const portfolioURL =  [https://raviganeshmaniyoor.netlify.app](https://raviganeshmaniyoor.netlify.app)
+`</script>`
 
 `</About_Me>`
 
