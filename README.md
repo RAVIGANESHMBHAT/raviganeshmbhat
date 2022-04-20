@@ -8,7 +8,7 @@
   - 🌱 I’m currently learning JavaScript, MERN Stack, Docker, Kubernetes....
 
 `<script>`
-{. tabset} const portfolioURL = [https://raviganeshmaniyoor.netlify.app](https://raviganeshmaniyoor.netlify.app)
+ ---const portfolioURL = [https://raviganeshmaniyoor.netlify.app](https://raviganeshmaniyoor.netlify.app)
 `</script>`
 
 `</About_Me>`
