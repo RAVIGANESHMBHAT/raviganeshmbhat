@@ -2,7 +2,7 @@
 
 <About_Me>
 
-`<name> I am Raviganesh </name>`
+`<name> Raviganesh M </name>`
 
   - 🔭 I’m currently working on Software Development.
   - 🌱 I’m currently learning JavaScript, MERN Stack, Docker, Kubernetes....
@@ -13,6 +13,8 @@ const portfolioURL = [https://raviganeshmaniyoor.netlify.app](https://raviganesh
 `</script>`
 
 </About_Me>
+
+<Other_Info>
 
 **Languages and tools:**  
 
@@ -37,5 +39,7 @@ const portfolioURL = [https://raviganeshmaniyoor.netlify.app](https://raviganesh
 #### My Github Stats:
 
 <img src="https://github-readme-stats.vercel.app/api?username=raviganeshmbhat&show_icons=true&theme=gotham" alt="raviganesh_m" />
+
+</Other_Info>
 
 ## 👋 </Hello_World>
