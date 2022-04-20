@@ -1,4 +1,4 @@
-### <Hello_World> 👋
+## <Hello_World> 👋
 
 I am Raviganesh.
 - 🔭 I’m currently working on Software Development.
@@ -6,7 +6,7 @@ I am Raviganesh.
 - 😄 See my portfolio [here](https://raviganeshmaniyoor.netlify.app)<!--{:target="_blank" rel="noopener"} -->
 - 📧 Drop me an email at raviganeshmbhat999@gmail.com
 
-### </Hello_World> 👋
+## 👋 </Hello_World>
 
 <!--
 **RAVIGANESHMBHAT/raviganeshmbhat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
