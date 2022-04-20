@@ -2,11 +2,11 @@
 
 <About_Me>
 
-  <name> I am Raviganesh </name>
+  `<name> I am Raviganesh </name>`
 
-- 🔭 I’m currently working on Software Development.
-- 🌱 I’m currently learning JavaScript, MERN Stack, Docker, Kubernetes....
-- 😄 See my portfolio [here](https://raviganeshmaniyoor.netlify.app)<!--{:target="_blank" rel="noopener"} -->
+  - 🔭 I’m currently working on Software Development.
+  - 🌱 I’m currently learning JavaScript, MERN Stack, Docker, Kubernetes....
+  - 😄 See my portfolio [here](https://raviganeshmaniyoor.netlify.app)<!--{:target="_blank" rel="noopener"} -->
 
 </About_Me>
 
