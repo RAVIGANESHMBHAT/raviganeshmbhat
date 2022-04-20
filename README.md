@@ -1,6 +1,6 @@
-## <Hello_World> 👋
+## `<Hello_World>` 👋
 
-<About_Me>
+`<About_Me>`
 
 `<name> Raviganesh M </name>`
 
@@ -12,9 +12,9 @@
 const portfolioURL = [https://raviganeshmaniyoor.netlify.app](https://raviganeshmaniyoor.netlify.app)
 `</script>`
 
-</About_Me>
+`</About_Me>`
 
-<Other_Info>
+`<Other_Info>`
 
 **Languages and tools:**  
 
@@ -40,6 +40,6 @@ const portfolioURL = [https://raviganeshmaniyoor.netlify.app](https://raviganesh
 
 <img src="https://github-readme-stats.vercel.app/api?username=raviganeshmbhat&show_icons=true&theme=gotham" alt="raviganesh_m" />
 
-</Other_Info>
+`</Other_Info>`
 
-## 👋 </Hello_World>
+## 👋 `</Hello_World>`
