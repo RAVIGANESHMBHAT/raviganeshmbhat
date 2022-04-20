@@ -2,7 +2,7 @@
 
 I am Raviganesh.
 - 🔭 I’m currently working on Software Development.
-- 🌱 I’m currently learning JavaScript, MERN Stack....
+- 🌱 I’m currently learning JavaScript, MERN Stack, Docker, Kubernetes....
 - 😄 See my portfolio [here](https://raviganeshmaniyoor.netlify.app)<!--{:target="_blank" rel="noopener"} -->
 - 📧 Drop me an email at raviganeshmbhat999@gmail.com
 
