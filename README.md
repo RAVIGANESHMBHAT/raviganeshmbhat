@@ -6,10 +6,9 @@
 
   - 🔭 I’m currently working on Software Development.
   - 🌱 I’m currently learning JavaScript, MERN Stack, Docker, Kubernetes....
-  - 😄 See my portfolio [here](https://raviganeshmaniyoor.netlify.app)
 
 `<script>`
-const portfolioURL = [https://raviganeshmaniyoor.netlify.app](https://raviganeshmaniyoor.netlify.app)
+{. tabset} const portfolioURL = [https://raviganeshmaniyoor.netlify.app](https://raviganeshmaniyoor.netlify.app)
 `</script>`
 
 `</About_Me>`
