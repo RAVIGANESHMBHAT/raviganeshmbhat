@@ -27,7 +27,7 @@ const portfolioURL =  ["https://raviganeshmaniyoor.netlify.app"](https://ravigan
 
 #### Connect with me:
 
-<a href="https://www.linkedin.com/in/raviganesh-m-31b04015b/">
+<a href="https://www.linkedin.com/in/raviganesh-m-31b04015b/" target="_blank">
   <img align="left" alt="Raviganesh's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="mailto: raviganeshmbhat999@gmail.com/">
