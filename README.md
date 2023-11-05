@@ -5,7 +5,7 @@
 `<name> Raviganesh M </name>`
 
   - 🔭 I’m currently working on Software Development.
-  - 🌱 I’m currently learning JavaScript, MERN Stack, Docker, Kubernetes....
+  - 🌱 I’m currently learning JavaScript, TypeScript, MERN Stack, Docker, Kubernetes....
 
 `<script>`
 const portfolioURL =  ["https://raviganeshmaniyoor.netlify.app"](https://raviganeshmaniyoor.netlify.app)
@@ -18,6 +18,7 @@ const portfolioURL =  ["https://raviganeshmaniyoor.netlify.app"](https://ravigan
 **Languages and tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://github.com/github/explore/blob/main/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -29,7 +30,7 @@ const portfolioURL =  ["https://raviganeshmaniyoor.netlify.app"](https://ravigan
 #### Connect with me:
 
 <a href="https://www.linkedin.com/in/raviganesh-m-31b04015b/" target="_blank">
-  <img align="left" alt="Raviganesh's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Raviganesh's LinkedIn" width="22px" src="https://pbs.twimg.com/profile_images/1661161645857710081/6WtDIesg_400x400.png" />
 </a>
 <a href="mailto: raviganeshmbhat999@gmail.com/">
   <img align="left" alt="Raviganesh's LinkedIn" width="28px" src="https://image.emojipng.com/796/1237796.jpg" />
